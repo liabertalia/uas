@@ -1,0 +1,2 @@
+# uas
+menjalankan sebuah program
